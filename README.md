@@ -1,4 +1,4 @@
-This repo was inspired by [this article](https://medium.com/@tuennermann/convolutional-neural-networks-to-find-cars-43cbc4fb713) and gives a baseline source code to some of most known Deep Learning Frameworks: Tensorflow, Tensorboard, TFLearn and Keras. The same database and model have been used in order to allow code comparison between the frameworks.
+This repo was inspired by [this article](https://medium.com/@tuennermann/convolutional-neural-networks-to-find-cars-43cbc4fb713) and gives a baseline source code to some of most known Deep Learning Frameworks: Tensorflow and Keras. Additionaly to Tensorflow, there are versions using Tensorboard and TFLearn. The same database and model have been used in order to allow code comparison between all implementations provided.
 
 # Databases
 I used both [vehicle](https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/vehicles.zip) and [non-vehicle](https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/non-vehicles.zip) datasets to train the models.
