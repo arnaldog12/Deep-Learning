@@ -1,0 +1,1 @@
+> conda install numpy matplotlib jupyter cntk-gpu
