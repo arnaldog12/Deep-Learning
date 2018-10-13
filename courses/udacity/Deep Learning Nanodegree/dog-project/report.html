@@ -12423,7 +12423,7 @@ Dog&#39;s face detector accuracy: 100.00%
 <p>We have imported some Python modules to get you started, but feel free to import as many modules as you need.  If you end up getting stuck, here's a hint that specifies a model that trains relatively fast on CPU and attains &gt;1% test accuracy in 5 epochs:</p>
 <p><img src="images/sample_cnn.png" alt="Sample CNN"></p>
 <p><strong>Question 4:</strong> Outline the steps you took to get to your final CNN architecture and your reasoning at each step.  If you chose to use the hinted architecture above, describe why you think that CNN architecture should work well for the image classification task.</p>
-<p><strong>Answer:</strong> After a few attempts, I ended up with the architecture described below. As we can see, my architecture follows the usual pattern of convolutional networks, where the dimension decreases as the amount of filters increases. I'm using BatchNormalization due to my previous experience in training CNNs, which I realized BN layers help to improve the model. Also, I'm not using dropout because I'm following an <a href="https://towardsdatascience.com/dont-use-dropout-in-convolutional-networks-81486c823c16">article</a> I read weeks ago about it. I have also tested deep networks, but it has not improved accuracy significantly.</p>
+<p><strong>Answer:</strong> After a few attempts, I ended up with the architecture described below. As we can see, my architecture follows the usual pattern of convolutional networks, where the dimension decreases as the amount of filters increases. I'm using BatchNormalization due to my previous experience in training CNNs, which I realized BN layers help to improve the model. Also, I'm not using dropout because I'm following an <a href="https://towardsdatascience.com/dont-use-dropout-in-convolutional-networks-81486c823c16">article</a> I read weeks ago about it. I have also tested deeper networks, but it has not improved accuracy significantly.</p>
 
 </div>
 </div>
@@ -13083,7 +13083,7 @@ test_{network} = bottleneck_features['test']</code></pre>
 
 </code></pre>
 <p><strong>Question 5:</strong> Outline the steps you took to get to your final CNN architecture and your reasoning at each step.  Describe why you think the architecture is suitable for the current problem.</p>
-<p><strong>Answer:</strong></p>
+<p><strong>Answer:</strong> For this task, I decided to follow the the architecture of the last exercise since it worked well again. I have not tested other architectures. However, I believe it works well because the inceptions network is able to extract relevant features for the problem. Also, the output layer we attach for fine-tuning has enough amount of parameters to fit our problem.</p>
 
 </div>
 </div>
