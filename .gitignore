@@ -10,6 +10,8 @@ data/
 log/
 models/
 *.zip
+*.jpg
+*.png
 
 # Distribution / packaging
 .Python
