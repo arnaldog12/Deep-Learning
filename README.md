@@ -8,8 +8,8 @@ In this folder, you'll find the implementation of well-known deep learning archi
 - [x] VGG-16
 - [x] VGG-19
 - [x] ResNet-50
-- [] MobileNet
-- [] Inception
+- [ ] MobileNet
+- [ ] Inception
 
 ## Frameworks
 
@@ -17,4 +17,4 @@ In this folder, you'll find the implementation of well-known deep learning archi
 - [x] Keras
 - [x] Tensorboard
 - [x] TFLearn
-- [] PyTorch
+- [ ] PyTorch
