@@ -18,3 +18,13 @@ In this folder, you'll find the implementation of well-known deep learning archi
 - [x] Tensorboard
 - [x] TFLearn
 - [ ] PyTorch
+
+## Courses
+
+- [x] [Coursera] [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
+- [x] [Coursera] [Deploying Machine Learning Models](https://www.coursera.org/learn/deploying-machine-learning-models?authMode=login)
+- [x] [Edx] [Deep Learning Explained](https://www.edx.org/course/deep-learning-explained-2)
+- [x] [Udacity] [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
+- [x] [Udacity] [Deep Learning by Google](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+- [x] [Udacity] [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+- [] [Udemy] [Deep Learning A-Z](https://www.udemy.com/course/deeplearning/)
